@@ -3,6 +3,6 @@
 ## 포인트페이 개발팀
 
 
-TEL : 1661-9265
+TEL : 070-4667-1298
 
 Email : dev@mecross.net
